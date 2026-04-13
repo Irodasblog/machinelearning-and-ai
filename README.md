@@ -128,66 +128,92 @@ Perception - the ability to see and hear environment by monitoring chat/database
 
 AGENT = LLM + Planning + Memory + Tools. Remember: the most important component is reasoning loop 🔥 which is a continuous loop of thinking and acting.
 
-Books:
+### Books:
 
-"AI Engineering"
-Learn about LLM:
+- "AI Engineering"
 
-Start with Intro to LLM by Andrej Karpathy course.
-Intro to LLM by Andrej Karpathy
-Stanford LLM course
-https://www.youtube.com/@umarjamilai/videos
-Learn about Generative AI:
+---
 
-Beginner: Introduction to Generative AI https://www.skills.google/paths/118
-Advanced: Generative AI for Developers https://www.skills.google/paths/183
-Must read about agents:
+### Learn about LLM:
 
-MCP https://modelcontextprotocol.io
-Agents
-Gemini CLI https://geminicli.com/docs/
-Claude Code https://platform.claude.com/docs/en/home and https://code.claude.com/docs
-Agent skills
-https://agentskills.io
-https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
-https://geminicli.com/docs/cli/skills
-How to build own skills? https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en
-Tools to build own agents:
+- Start with Intro to LLM by Andrej Karpathy course  
+- Intro to LLM by Andrej Karpathy  
+- Stanford LLM course  
+- https://www.youtube.com/@umarjamilai/videos  
 
-Agent development kit: https://google.github.io/adk-docs/ - try to build own agents.
-Agent SKD by claude: https://platform.claude.com/docs/en/agent-sdk/overview
-https://docs.langchain.com/
-Learn how to build MCP and agents:
+---
 
-https://huggingface.co/learn/agents-course/
-https://huggingface.co/learn/mcp-course/
-https://anthropic.skilljar.com/introduction-to-model-context-protocol
-https://anthropic.skilljar.com/model-context-protocol-advanced-topics
-Introduction to Agents and Google’s Agent Ecosystem https://www.skills.google/paths/3546
-Fundamentals of Agent Development Kit (ADK) https://www.skills.google/paths/3473
-Develop Agents with Agent Development Kit (ADK) https://www.skills.google/paths/3545
-Deep dive with roadmap:
+### Learn about Generative AI:
 
-The Roadmap for Mastering Agentic AI in 2026
-https://roadmap.sh/ai-engineer
-https://roadmap.sh/ai-agents
-https://roadmap.sh/prompt-engineering
-More resources:
+- Beginner: Introduction to Generative AI → https://www.skills.google/paths/118  
+- Advanced: Generative AI for Developers → https://www.skills.google/paths/183  
 
-https://www.youtube.com/@aiexplained-official/videos
-https://huggingface.co/learn
-https://www.kaggle.com/learn
-https://www.anthropic.com/engineering
-https://towardsdatascience.com
-https://www.deeplearning.ai
-https://www.fast.ai
-Research
-Anthropic
-OpenAI
-Google DeepMind
-Google AI
-Google AI Blog
-Stanford AI Lab
-MIT AI Lab
-Microsoft Research
-IBM Research
+---
+
+### Must read about agents:
+
+- MCP → https://modelcontextprotocol.io  
+- Agents  
+- Gemini CLI → https://geminicli.com/docs/  
+- Claude Code → https://platform.claude.com/docs/en/home  
+- https://code.claude.com/docs  
+- Agent skills  
+- https://agentskills.io  
+- https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview  
+- https://geminicli.com/docs/cli/skills  
+- How to build own skills? → https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en  
+
+---
+
+### Tools to build own agents:
+
+- Agent development kit → https://google.github.io/adk-docs/ - try to build own agents.  
+- Agent SKD by claude → https://platform.claude.com/docs/en/agent-sdk/overview  
+- https://docs.langchain.com/  
+
+---
+
+### Learn how to build MCP and agents:
+
+- https://huggingface.co/learn/agents-course/  
+- https://huggingface.co/learn/mcp-course/  
+- https://anthropic.skilljar.com/introduction-to-model-context-protocol  
+- https://anthropic.skilljar.com/model-context-protocol-advanced-topics  
+- Introduction to Agents and Google’s Agent Ecosystem → https://www.skills.google/paths/3546  
+- Fundamentals of Agent Development Kit (ADK) → https://www.skills.google/paths/3473  
+- Develop Agents with Agent Development Kit (ADK) → https://www.skills.google/paths/3545  
+
+---
+
+### Deep dive with roadmap:
+
+- The Roadmap for Mastering Agentic AI in 2026  
+- https://roadmap.sh/ai-engineer  
+- https://roadmap.sh/ai-agents  
+- https://roadmap.sh/prompt-engineering  
+
+---
+
+### More resources:
+
+- https://www.youtube.com/@aiexplained-official/videos  
+- https://huggingface.co/learn  
+- https://www.kaggle.com/learn  
+- https://www.anthropic.com/engineering  
+- https://towardsdatascience.com  
+- https://www.deeplearning.ai  
+- https://www.fast.ai  
+
+---
+
+### Research
+
+- Anthropic  
+- OpenAI  
+- Google DeepMind  
+- Google AI  
+- Google AI Blog  
+- Stanford AI Lab  
+- MIT AI Lab  
+- Microsoft Research  
+- IBM Research  
